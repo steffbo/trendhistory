@@ -1,0 +1,10 @@
+{
+  "name": "trendhistory",
+  "version": "0.0.0",
+  "description": "trendhistory",
+  "main": "app.js",
+  "author": {
+    "name": "steff",
+    "email": ""
+  }
+}
