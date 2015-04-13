@@ -1,10 +1,14 @@
 {
-  "name": "trendhistory",
-  "version": "0.0.0",
-  "description": "trendhistory",
-  "main": "app.js",
-  "author": {
-    "name": "steff",
-    "email": ""
-  }
+    "name": "trendhistory",
+    "version": "0.0.0",
+    "description": "trendhistory",
+    "main": "app.js",
+    "author": {
+        "name": "steff",
+        "email": ""
+    },
+    "dependencies": {
+        "twitter": "1.2.5",
+        "properties-parser": "0.2.3"
+    }
 }
